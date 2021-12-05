@@ -1,10 +1,13 @@
-import SoftwareDeveloper from 'thompsonemerson';
+```js 
+
+
+import SoftwareDeveloper from 'woklywo';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  name     = 'woklywo';
+  title    = 'About me';
+  company  = 'Azurelogs | Remote';
+  location = 'Chile, Valdivia;
 }
 
 class Skills extends SoftwareDeveloper {
